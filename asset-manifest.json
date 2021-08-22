@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/wd-loginform-react/static/css/main.b2add461.chunk.css",
+    "main.js": "/wd-loginform-react/static/js/main.cb088ae4.chunk.js",
+    "main.js.map": "/wd-loginform-react/static/js/main.cb088ae4.chunk.js.map",
+    "runtime-main.js": "/wd-loginform-react/static/js/runtime-main.274e35aa.js",
+    "runtime-main.js.map": "/wd-loginform-react/static/js/runtime-main.274e35aa.js.map",
+    "static/js/2.d5b47bbd.chunk.js": "/wd-loginform-react/static/js/2.d5b47bbd.chunk.js",
+    "static/js/2.d5b47bbd.chunk.js.map": "/wd-loginform-react/static/js/2.d5b47bbd.chunk.js.map",
+    "static/js/3.8510d12f.chunk.js": "/wd-loginform-react/static/js/3.8510d12f.chunk.js",
+    "static/js/3.8510d12f.chunk.js.map": "/wd-loginform-react/static/js/3.8510d12f.chunk.js.map",
+    "index.html": "/wd-loginform-react/index.html",
+    "static/css/main.b2add461.chunk.css.map": "/wd-loginform-react/static/css/main.b2add461.chunk.css.map",
+    "static/js/2.d5b47bbd.chunk.js.LICENSE.txt": "/wd-loginform-react/static/js/2.d5b47bbd.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/wd-loginform-react/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.274e35aa.js",
+    "static/js/2.d5b47bbd.chunk.js",
+    "static/css/main.b2add461.chunk.css",
+    "static/js/main.cb088ae4.chunk.js"
+  ]
+}
